@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geraldbrakoh
 - 👀 I’m interested in electronics, web development and electrical engineering.
-- 🌱 I’m currently a learning front-end development.
-- 💞️ I’m looking to collaborate on variousweb development projects.
+- 🌱 I’m currently a learning front-end developer.
+- 💞️ I’m looking to collaborate on various web development projects.
 - 📫 How to reach me brakohg@gmail.com
 
 <!---
